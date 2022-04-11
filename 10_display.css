@@ -43,7 +43,7 @@ border: 1px solid black;}
     
 }
 .inline {
-    display:block;
+    display:inline;
     background-color: lightblue;
     border: 1px solid black;
 }
