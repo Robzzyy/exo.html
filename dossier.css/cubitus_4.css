@@ -1,0 +1,86 @@
+
+
+.vide {
+    height: 10px;
+    width: 10px;
+    padding: 5vh;
+    background-color: none
+    ;
+    margin: 2px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius:30px ;
+    border-bottom-right-radius: 30px;
+}
+.cotenu1 {
+    display: flex;
+    
+}
+.cotenu2 {
+    display:flex
+}
+.cotenu3 {
+    display: flex;
+}
+.cotenu4 {
+    display: flex;
+}
+.cotenu5 {
+    display: flex;
+}
+.cotenu6 {
+    display: flex;
+}
+
+.vert {
+    height: 10px;
+    width: 10px;
+    padding: 5vh;
+    background-color: green;
+    margin: 2px;
+    border: 2px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius:30px ;
+    border-bottom-right-radius: 30px;
+}
+.bleu {
+    height: 10px;
+    width: 10px;
+    padding: 5vh;
+    background-color: aqua;
+    margin: 2px;
+    border: 2px solid black;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.aqua {
+    height: 10px;
+    width: 10px;
+    padding: 5vh;
+    background-color: blue;
+    margin: 2px;
+    border: 2px solid black;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.saumon {
+    height:10px;
+    width: 10px;
+    padding: 5vh;
+    background-color: salmon;
+    border: 2px solid black;
+    border-top-right-radius: 20px;
+}
+.rouge {
+    height:10px;
+    width: 10px;
+    padding: 5vh;
+    background-color: red;
+    border: 2px solid black;
+    border-top-right-radius: 20px;
+}
+
+}

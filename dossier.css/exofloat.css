@@ -1,0 +1,140 @@
+.boite1 {
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background-color: purple;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    
+    margin: 2vh;
+    float: left;
+    transition: margin:0.5s;
+    
+}
+.boite2 {
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background-color: green;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    
+    margin: 2vh;
+    float: left;
+  
+
+}
+.boite3 {
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background-color: purple;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    
+    margin: 2vh;
+    float: left;
+    transition: margin:0.5s;
+}
+
+.boite4 {
+        height: 11vh;
+        width: 18vh;
+        padding: 5vh;
+        background-color: green;
+        background-repeat: no-repeat;
+        border-radius: 10%;
+        
+        margin: 2vh;
+        float: left;
+        
+}
+.clear{
+    clear: both;
+}
+.boite5{
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background-color: green;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    
+    margin: 2vh;
+    float: left;
+    
+
+}
+.boite6 {
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background-color: purple;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    
+    margin: 2vh;
+    float: left;
+   
+
+}
+.boite7 {
+    
+        height: 11vh;
+        width: 18vh;
+        padding: 5vh;
+        background-color: green;
+        background-repeat: no-repeat;
+        border-radius: 10%;
+        
+        margin: 2vh;
+        float: left;
+      
+    
+    }
+.clear {
+    clear: both;
+}
+.boite8 {
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background-color: purple;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    
+    margin: 2vh;
+    float: left;
+
+
+}
+.boite9 {
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background-color: green;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    
+    margin: 2vh;
+    float: left;
+  
+
+}
+.clear{
+    clear: both;
+}
+.boite10{
+    height: 11vh;
+    width: 18vh;
+    padding: 5vh;
+    background-color: purple;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    
+    margin: 2vh;
+    float: left;
+    
+
+}
+

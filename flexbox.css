@@ -1,0 +1,26 @@
+header {
+    color: blue;
+        font-weight: bold;
+        font-size: 2em;
+        text-decoration: none;
+}
+.R {
+    color: orange;
+}
+
+.footer {
+     
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-align: center;
+}
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+}
+
