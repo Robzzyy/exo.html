@@ -1,0 +1,33 @@
+.contener {
+    background: #273978;
+    width: 45%;
+    margin: 2vh auto;
+    font-family: Shadows Into Light,cursive;
+    color: #fff;
+
+}
+
+header {
+    height: 200px;
+}
+
+
+.block1 {
+    display: flex;
+}
+
+.block2 {
+    display: flex;
+}
+
+.block3 {
+    display: flex;
+}
+h1 {
+    margin: 324px;
+}
+
+figcaption {
+    display: flex;
+    justify-content: center;
+}

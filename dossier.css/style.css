@@ -1,24 +1,31 @@
-.description{
-  
- 
-    display: flex;
-    flex-direction: column;
+
+
+
+.zone-adaptative{
+    width: 500px;
+    padding: 10px;
+    background-color: red;
 }
 
-.carte{
-    display: flex;
-}
-
-.container{
-    width: 1100px;
-    display: flex;
-    flex-wrap: wrap;
-    border: solid 2px black;
-    margin: 200px;
-   
+@media (max-width: 1200px) {
+.zone-adaptative {
+    background-color: green;
+    width: 1170px;
     
+  }
 }
-
-
-
+@media(max-width:992px) {
+    .zone-adaptative {
+        width: 970px;
+        background-color: blue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 16rem;
+    }
+}
+@media(max-width:500px) {
+    .zone-adaptative{
+        width:470px;
+        background-color: yellow;
+    }
+}
 

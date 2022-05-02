@@ -1,0 +1,49 @@
+body {
+    background-color: lightyellow ;
+}
+
+.contener1 {
+    width: 500px;
+    height: 1000px;
+    border: 1px solid lightgreen;
+    margin-left: 746px;
+    margin-right: 900px;
+    background-color: white;
+
+}
+    
+header {
+    background-color: white;
+    color: white;
+    height: 185px;
+    width: 500px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: green;
+    margin-top: 0;
+ 
+}
+
+h1 {
+    margin-bottom: 7px;
+    margin-left: 88px;
+    color: green;
+}
+
+
+hr {
+    margin-left: 90px;
+    margin-right: 18px;
+    margin-top: -13px;
+}
+
+span {
+    background-color: yellow;
+}
+
+
+
+

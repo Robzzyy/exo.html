@@ -1,0 +1,71 @@
+header {
+    color: purple;
+    
+    height: 30px;
+    background-color: purple;
+    margin: 0 -8px 0 -8px;
+}
+
+a {
+    background-color: aqua;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 30vh;
+    border: 2px solid white;
+  
+
+}
+
+.a2 {
+    border: 0;
+    height: 30px;
+    width: 325px;
+
+}
+
+.a3 {
+
+    height: 30px;
+    line-height: 30px;
+  
+}
+
+.img{
+    display: flex;
+    justify-content: space-between;
+}
+
+.t1 {
+    margin-top: 20px;
+
+}
+
+
+
+.main1 {display: flex;}
+
+
+
+
+
+.What {
+    padding: 12px;
+    margin-left: 605px;
+    text-align: center;
+    
+}
+
+
+p {
+    background-color: aqua;
+    height: 30px;
+    margin-right: -8px;
+    margin-left: -8px;
+
+}
+.t2 {
+    width: 936px;
+    height: 216px;
+}
+}
